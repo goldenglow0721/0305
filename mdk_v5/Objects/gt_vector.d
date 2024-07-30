@@ -1,0 +1,13 @@
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\gt_vector.c
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\gt_vector.h
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\../others/gt_types.h
+.\objects\gt_vector.o: D:\tools\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gt_vector.o: D:\tools\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\../others/gt_list.h
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\../others/gt_defs.h
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\../others/gt_log.h
+.\objects\gt_vector.o: D:\tools\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\../core/gt_mem.h
+.\objects\gt_vector.o: D:\tools\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gt_vector.o: GT-HMI-Engine\src\utils\../core/../gt_conf.h
+.\objects\gt_vector.o: D:\tools\Keil\ARM\ARMCC\Bin\..\include\string.h
